@@ -1,9 +1,9 @@
 # Bay Ridge Restaurant Guide
-## European --> Greek
+## European --> Mediterranean
 ---
 Select a restaurant:
-## [Omonia Cafe]()
-## [Something Greek]()
+## [Tanoreen]()
+## [The Family Store]()
 ---
 [Back to European](european.md)<br>
 [Start Over](../home.md)
